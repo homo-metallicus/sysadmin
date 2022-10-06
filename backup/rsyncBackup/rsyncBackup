@@ -1,0 +1,5 @@
+# rsyncBackup.sh default config file
+
+MAIL_ADMIN="romain.decle@gmail.com"
+LOG="/var/log/"${SCRIPT%%.sh}".log"
+VERBOSE=0
