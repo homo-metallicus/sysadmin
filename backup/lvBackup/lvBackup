@@ -1,0 +1,6 @@
+# lvBackup.sh default config file
+
+MAIL_ADMIN="email@address.com"
+LOG="/var/log/"${0##*/}".log"
+LOCAL_VGS="vg00"
+VERBOSE=0
